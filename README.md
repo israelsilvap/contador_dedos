@@ -41,7 +41,3 @@ Este projeto utiliza a biblioteca OpenCV e o MediaPipe para detectar e contar o 
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
